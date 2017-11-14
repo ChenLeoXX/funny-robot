@@ -6,3 +6,4 @@ npm i -g my-robot
 ```
 my-robot
 ```
+![](http://ww1.sinaimg.cn/large/be86cc18gy1flhmixinw5j20ox0dbdh9.jpg)

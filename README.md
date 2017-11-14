@@ -6,4 +6,4 @@ npm i -g my-robot
 ```
 my-robot
 ```
-![img](http://ww1.sinaimg.cn/large/be86cc18gy1flhmixinw5j20ox0dbdh9.jpg)
+![img](https://github.com/ChenLeoXX/funny-robot/blob/master/imgs/Snipaste_2017-11-14_14-57-48.png)
